@@ -1,4 +1,6 @@
-## Hi there 👋
+##My Pre-views
+
+Target Computational Astronomy, specializing in numerical analysis and numerical integration
 
 <!--
 **Xiyu-ChenAQ/Xiyu-ChenAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
