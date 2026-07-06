@@ -3,6 +3,7 @@
 While thought is the bough bearing cerulean and cyan.”
 
 我的个人爱好：单推天童爱丽丝。21stNostalgia，喜欢千禧年题材的旧核游戏。虽然在计算机专业但立志成为一名天体物理学家
+
 About Me:
 
 My Favorite Character: Aris (Tendou Alice)
